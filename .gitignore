@@ -1,1 +1,4 @@
 .idea/
+app/__pycache__/
+app/tests/__pycache__/
+train/__pycache__/
